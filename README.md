@@ -1,6 +1,6 @@
 ##Djay Sunu Mbay Wordpress website
 
-this is the wwebsite of Djay Sunu Mbay's project
+this is the website of Djay Sunu Mbay's project
 
 ##Getting Started 
 
